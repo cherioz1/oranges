@@ -1,7 +1,7 @@
 {
   "name": "countdownchamp",
   "version": "0.1.0",
-  "private": true,
+sdfasdfasdfd  "private": true,
   "dependencies": {
     "express": "^4.15.2",
     "react": "^15.4.2",
@@ -9,7 +9,7 @@
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
-    "react-scripts": "0.9.4"
+    "react-scripts": "0.9.4"asdfasdfa
   },
   "scripts": {
     "start": "node server.js",
