@@ -6,15 +6,11 @@ sdfasdfasdfd  "private": true,
     "express": "^4.15.2",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.8",
-    "react-dom": "^15.4.2"
-  },
-  "devDependencies": {
-    "react-scripts": "0.9.4"asdfasdfa
-  },
-  "scripts": {
+    "r
     "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }llllllllllLOOOL
 }
+kdfjal;sdjfjasdfkasjdfk;
